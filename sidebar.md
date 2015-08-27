@@ -1,0 +1,15 @@
+  * [Installation Instructions](Install.md)
+    * [Styling](CSSStyle.md)
+    * [Empty Style](CSSEmpty.md)
+
+  * [Advanced Usage](Advanced.md)
+    * [In-Link Independent: Using In-Link Everywhere](inLinkIndependent.md)
+    * [Embedding In-Link into a Tumblr Theme](embeddingTumblrTheme.md)
+
+  * [Options](Options.md)
+    * [The num Option](num.md)
+    * [The len Option](len.md)
+    * [The size Option](size.md)
+    * [The title Option](title.md)
+    * [The imageurl Option](imageurl.md)
+    * [The type Option](type.md)
